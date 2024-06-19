@@ -1,6 +1,6 @@
 In this project, let's build a **Simple Todos** app by applying the concepts we have learned till now.
 
-Website Live : https://swapnabonapati.ccbp.tech/
+Website Live : https://swapnabonapatit.ccbp.tech/
 
 ### Refer to the image below:
 
